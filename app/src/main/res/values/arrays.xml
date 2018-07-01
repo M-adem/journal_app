@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="pref_text_style_options">
+        <item>@string/pref_Text_Style_Default</item>
+        <item>@string/pref_Bold_Text</item>
+        <item>@string/pref_Italic_Text</item>
+        <item>@string/pref_Bold_Italic_Text</item>
+    </string-array>
+
+    <string-array name="pref_text_style_values">
+        <item>@string/pref_Text_Style_Default_v</item>
+        <item>@string/pref_Bold_Text_v</item>
+        <item>@string/pref_Italic_Text_v</item>
+        <item>@string/pref_Bold_Italic_Text_v</item>
+    </string-array>
+
+
+</resources>

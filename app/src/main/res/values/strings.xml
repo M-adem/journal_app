@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MyDiary</string>
+    <string name="content_authority">com.journalapp.android.journalapp</string>
+    <string name="today">Today</string>
+
+
+    <string name="tomorrow">Tomorrow</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_map">Map</string>
+    <string name="action_share">Share</string>
+
+    <string name="felling_angry">angry</string>
+    <string name="felling_exacited">exacited</string>
+    <string name="felling_loved">loved</string>
+    <string name="felling_none">none</string>
+    <string name="felling_sade">sade</string>
+    <string name="felling_sick">sick</string>
+    <string name="felling_silly">silly</string>
+    <string name="felling_stressed">stressed</string>
+    <string name="felling_happy">happy</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="pref_user_label">User Name</string>
+    <string name="pref_user_key" translatable="false">Name</string>
+    <string name="pref_user_default" translatable="false">anonymous</string>
+    <string name="pref_text_style_label">Text Style</string>
+    <string name="pref_text_style_key" translatable="false">text style</string>
+    <string name="pref_text_style" translatable="false">0</string>
+
+    <string name="pref_Text_Style_Default">Text Style Default</string>
+    <string name="pref_Bold_Text">Bold Text</string>
+    <string name="pref_Italic_Text">Italic Text</string>
+    <string name="pref_Bold_Italic_Text">Bold Italic Text</string>
+
+    <string name="pref_Text_Style_Default_v" translatable="false">0</string>
+    <string name="pref_Bold_Text_v" translatable="false">1</string>
+    <string name="pref_Italic_Text_v" translatable="false">2</string>
+    <string name="pref_Bold_Italic_Text_v" translatable="false">3</string>
+
+
+    <string name="dialog_delete_title">Confirm delete !</string>
+    <string name="dialog_delete_mesg">You are about to delete this journal. Do you really want to proceed ?</string>
+
+
+
+
+</resources>
